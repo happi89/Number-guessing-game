@@ -51,3 +51,4 @@ tryAgain.addEventListener("click", function () {
   guessInput.value = "";
   message.textContent = "Start guessing...";
 });
+console.log();
